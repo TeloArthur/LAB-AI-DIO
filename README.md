@@ -1,7 +1,8 @@
 # LAB-AI-DIO
 Aula Azure AI
 
-Projeto do Azure Speech Audio
+Projeto do Azure Speech Audio.
+Imagem acima demonstra o uso do áudio(criado por mim mesmo) que foi transcrito ao lado.
 
 
 Projeto do Azure Language Studio
